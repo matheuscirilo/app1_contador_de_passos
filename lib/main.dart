@@ -15,12 +15,12 @@ class _HomeState extends State<Home> {
   void _changePeople(int interacao) {
     setState(() {
       _people += interacao;
-      if(_people<0){
-        _infotext="Mundo Invertido?";
-      }else if(_people<=10){
-        _infotext="Pode Entrar";
-      }else{
-        _infotext="Restaurante Cheio";
+      if (_people < 0) {
+        _infotext = "Mundo Invertido?";
+      } else if (_people <= 10) {
+        _infotext = "Pode Entrar";
+      } else {
+        _infotext = "Restaurante Cheio";
       }
     });
   }
