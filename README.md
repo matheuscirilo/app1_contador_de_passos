@@ -1,16 +1,7 @@
 # contador_de_pessoas
 
-A new Flutter application.
+Aplictivo #1 de #14 do curso Criação de Apps Android e iOS com Flutter 2021 disponibilizado na Udemy, a qual estou realizando para aperfeiçoamento constante da tecnologia Flutter.
 
-## Getting Started
+Curso: https://www.udemy.com/course/curso-completo-flutter-app-android-ios/
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O aplicativo de gestão restaurante que consiste em uma tela com 4 widgets e uma imagem, que ao clicar no +1 ou -1, o número indicado na tela altera respectivamente. Quuando o valor ultrapassa 10, o app informa que o restaurante está cheio e no caso de o resultado ser negativo há uma frase específica.
